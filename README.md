@@ -1,6 +1,6 @@
 # Audio Steganography
 
-Hiding and finding information inside sound with Python: detecting a code hidden at the top of the audible range of a recording, and hiding a text message in the least significant bits of another.
+Hiding and finding information inside sound with Python: detecting a code hidden at the top of the audible range of a recording, and hiding a text message in the least significant bits of another. Both algorithms are written from scratch with NumPy and SciPy, and Vosk is used only to transcribe the recovered code.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ziadelh/audio-steganography/blob/main/audio_steganography.ipynb)
 
