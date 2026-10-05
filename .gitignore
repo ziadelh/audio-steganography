@@ -1,0 +1,4 @@
+vosk-model*/
+vosk-model*.zip
+.ipynb_checkpoints/
+__pycache__/
